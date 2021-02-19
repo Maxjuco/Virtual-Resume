@@ -1,5 +1,10 @@
 # Virtual-Resume
 
+
+<B>Description :</B><br>
+A little game to present my resume.
+<br><br><br>
+
 <B>Installation :</B>
 - Download the compressed files
 - extract in a folder
