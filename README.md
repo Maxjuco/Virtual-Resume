@@ -2,7 +2,7 @@
 
 
 <B>Description :</B><br>
-A little game to present my resume.
+A little game developped with Unity to present my resume.
 <br><br><br>
 
 <B>Installation :</B>
