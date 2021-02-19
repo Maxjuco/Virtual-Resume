@@ -20,7 +20,7 @@
    - <B> AUDIO</B>
      - Polytama, <I>by Bokusan</I> <a href = https://www.youtube.com/c/TranquilleOfficiel>(YT chanel link)</a></br></br>
    - <B>FONT</B>
-      - Pixelated, <I>by Skylar Park / Greenma201</I> (see the license in font-license's folder)</br></br></br></br>
+      - Pixelated, <I>by Skylar Park / Greenma201</I> (see the license in font folder)</br></br></br></br>
 
 
 - <B>SPECIAL  THANKS </B>
