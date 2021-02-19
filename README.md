@@ -6,7 +6,7 @@ A little application developped with Unity to present my resume.
 <br><br><br>
 
 <B>Installation :</B>
-- Download the compressed files
+- Download the compressed files Virtual_Resume (lastest version, not in the OLD_Build file)
 - extract in a folder
 - launch the application by double clicking on CV- Virtuel.exe
 </br></br></br>
