@@ -13,7 +13,7 @@
 
 
   - <B> GRAPHICS </B>
-    - a plateformer in the forest, <I>by butch</I> <a href = opengameart.org/users/buch >(profil)</a>
+    - a plateformer in the forest, <I>by butch</I> <a href = https://opengameart.org/users/buch >(profil)</a>
     - Background, <I>by  Côme</I>
     - Other props, <I>by  Maxime</I></br></br>
 
