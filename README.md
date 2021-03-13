@@ -11,6 +11,12 @@ A little application developped with Unity to present my resume.
 - launch the application by double clicking on CV- Virtuel.exe
 </br></br></br>
 
+<B>How to play :</B>
+- use the arrows to move horizontally
+- use the spacebar to jump
+- use the arrows to move up and down on the ladders
+- press E when it is asked to trigger animations
+</br></br></br>
 
 <B>Credits :</B>
 
