@@ -4,23 +4,23 @@
 <B>Description :</B><br>
 A little application developped with Unity to present my resume.
 
-<image src="ScreenShots\ScreenShot_1.PNG"></image> 
+<image src="ScreenShots\ScreenShot_1.PNG" height="60%" width="60%" style="display: block; margin-left: auto; margin-right: auto;"></image> 
 <h2 style="text-align: center;">Interactive resume in the form of a platformer</h2>
 <br>
 
-<image src="ScreenShots\ScreenShot_2.PNG"></image>
+<image src="ScreenShots\ScreenShot_2.PNG" height="60%" width="60%" style="display: block; margin-left: auto; margin-right: auto;"></image>
 <h2 style="text-align: center;">presentation of diplomas</h2>
 <br>
 
-<image src="ScreenShots\ScreenShot_3.PNG"></image>
+<image src="ScreenShots\ScreenShot_3.PNG" height="60%" width="60%" style="display: block; margin-left: auto; margin-right: auto;"></image>
 <h2 style="text-align: center;">Technologies mastered</h2>
 <br>
 
-<image src="ScreenShots\ScreenShot_4.PNG"></image>
+<image src="ScreenShots\ScreenShot_4.PNG" height="60%" width="60%" style="display: block; margin-left: auto; margin-right: auto;"></image>
 <h2 style="text-align: center;">Languages spoken</h2>
 <br>
 
-<image src="ScreenShots\ScreenShot_5.PNG"></image>
+<image src="ScreenShots\ScreenShot_5.PNG" height="60%" width="60%" style="display: block; margin-left: auto; margin-right: auto;"></image>
 <h2 style="text-align: center;">Professional experiences</h2>
 <br>
 
