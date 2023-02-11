@@ -3,6 +3,27 @@
 
 <B>Description :</B><br>
 A little application developped with Unity to present my resume.
+
+<image src="ScreenShots\ScreenShot_1.PNG"></image> 
+<h2 style="text-align: center;">Interactive resume in the form of a platformer</h2>
+<br>
+
+<image src="ScreenShots\ScreenShot_2.PNG"></image>
+<h2 style="text-align: center;">presentation of diplomas</h2>
+<br>
+
+<image src="ScreenShots\ScreenShot_3.PNG"></image>
+<h2 style="text-align: center;">Technologies mastered</h2>
+<br>
+
+<image src="ScreenShots\ScreenShot_4.PNG"></image>
+<h2 style="text-align: center;">Languages spoken</h2>
+<br>
+
+<image src="ScreenShots\ScreenShot_5.PNG"></image>
+<h2 style="text-align: center;">Professional experiences</h2>
+<br>
+
 <br><br><br>
 
 <B>Installation :</B>
